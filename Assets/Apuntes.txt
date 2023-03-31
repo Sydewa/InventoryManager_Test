@@ -1,0 +1,10 @@
+Se ponen audio source a los objetos que queremos que emitan sonidos.
+
+El spatial blend del audio source es lo que le da el efecto 3D al audio
+
+Hay dos bolas que controlan el volumen junto a un Rolloff. Dentro de la primera bola todo se escuchara al mismo volumen, y fuera de la segunda ya no se escuchará nada. Entre medio de estas dos bolas el volumen variará del Rolloff. Como más lejos de la primera bola en teoria se deberia escuchar cada vez menos.
+
+Para controlar el volumen del juego deberemos crear un archivo de tipo AudioMixer. Se pueden crear varios y conectarlos entre ellos. Dentro del audio mixer podemos crear distintas pistas de audio. Podemos crear toda una jerarquia de pistas. En el apartado de views podemos crear distintas "pantallas" donde ver distintas pistas cada vez, esto se usa para cuando hay muchas pistas de muchas cosas. Con crear una nueva view y ocultar las pistas ya la habremos personalizado. Para modificar parametros desde scripts lo que deberemos hacer es seleccionar una pista de audio y en el inspector le damos click derecho a un parametro y a "Expose to script", cuando tengan una flecha al lado del parametro significará que ya esta expuesto.
+
+En los audio source ahora debemos añadirle el output. Abrimos la ventana de selección y lo enviamos a su pista correspondiente.
+
