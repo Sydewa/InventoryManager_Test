@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6baf7ec98c813004d95b46159492bced, type: 3}
+  m_Name: "Espa\xF1ol"
+  m_EditorClassIdentifier: 
+  Text: "\xBFSab\xEDas que los ping\xFCinos macho proponen matrimonio a sus parejas
+    con una piedra? Durante la \xE9poca de apareamiento, los ping\xFCinos macho buscan
+    la piedra perfecta para ofrecer a su pareja como s\xEDmbolo de amor y compromiso.
+    Si la hembra acepta la piedra, significa que est\xE1n comprometidos y listos
+    para empezar una familia juntos. \xA1As\xED de rom\xE1nticos son los ping\xFCinos!"

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6baf7ec98c813004d95b46159492bced, type: 3}
+  m_Name: "Fran\xE7ais"
+  m_EditorClassIdentifier: 
+  Text: "Saviez-vous que les manchots m\xE2les proposent \xE0 leur partenaire avec
+    une pierre ? Pendant la saison de reproduction, les manchots m\xE2les cherchent
+    la pierre parfaite \xE0 offrir \xE0 leur partenaire en tant que symbole d'amour
+    et d'engagement. Si la femelle accepte la pierre, cela signifie qu'ils sont fianc\xE9s
+    et pr\xEAts \xE0 fonder une famille ensemble. Les manchots sont vraiment romantiques
+    !"
